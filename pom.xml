@@ -16,7 +16,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/dapin1213/Tugas12_MKPL_1302190087</url>
+      <url>https://maven.pkg.github.com/dapin1213/Tugas13_MKPL_1302190087</url>
     </repository>
   </distributionManagement>
   
